@@ -1,0 +1,32 @@
+_repo: Scrap-Book-of-Mormon-Literature-Vol-1-of-2-Religious-Tracts_60056
+_version: 0.0.1
+contributor:
+  publisher_contributor:
+    agent_name: Rich, Ben. E. (Benjamin Erastus)
+    aliases:
+    - Rich, Ben E.
+    - Rich, Benjamin Erastus
+    birthdate: 1855
+    deathdate: 1913
+    gutenberg_agent_id: '45290'
+    url: http://www.gutenberg.org/2009/agents/45290
+    wikipedia: https://en.wikipedia.org/wiki/Ben_E._Rich
+description: ''
+gutenberg_issued: '2019-08-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60056'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Church of Jesus Christ of Latter-day Saints -- Doctrines'
+- !lcsh 'Mormons'
+- !lcsh 'Mormon Church -- Doctrines'
+- !lcc 'BX'
+- GITenberg
+title: 'Scrap Book of Mormon Literature (Vol. 1 of 2)
+
+  Religious Tracts'
+url: http://www.gutenberg.org/ebooks/60056
