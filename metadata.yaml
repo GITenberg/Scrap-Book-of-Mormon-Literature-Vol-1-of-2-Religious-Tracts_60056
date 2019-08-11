@@ -1,5 +1,5 @@
 _repo: Scrap-Book-of-Mormon-Literature-Vol-1-of-2-Religious-Tracts_60056
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   publisher_contributor:
     agent_name: Rich, Ben. E. (Benjamin Erastus)
@@ -11,7 +11,12 @@ contributor:
     gutenberg_agent_id: '45290'
     url: http://www.gutenberg.org/2009/agents/45290
     wikipedia: https://en.wikipedia.org/wiki/Ben_E._Rich
+covers:
+- cover_type: archival
+  image_path: 60056-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60056#Scrap-Book-of-Mormon-Literature-Vol-1-of-2-Religious-Tracts
 gutenberg_issued: '2019-08-04'
 gutenberg_type: Text
 identifiers:
